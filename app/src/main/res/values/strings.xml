@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WebProject</string>
+
+    <string name="STR_all">전체</string>
+    <string name="STR_variation">연도별 증감</string>
+    <string name="STR_check">수준별 진단</string>
+    <string name="STR_simulation">시뮬레이션</string>
+    <string name="STR_appinfo">어플 정보</string>
+
+    <string name="STR_main">메인화면</string>
+    <string name="STR_logout">로그아웃</string>
+
+</resources>
